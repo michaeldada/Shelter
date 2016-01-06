@@ -1,0 +1,25 @@
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 24em;
+  border: 3px solid black;
+  padding: 2px;
+}
+body{
+  text-align: center;
+  background-color: #99ddff;
+  line-height: 30px;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+.bio{
+  float:left;
+  padding:15px;
+  width: 400px;
+}
+
+h3{
+  font-size: 30px;
+}
